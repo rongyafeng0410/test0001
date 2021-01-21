@@ -12,6 +12,6 @@ class MyTest(unittest.TestCase):
     def test2(self):
         assert (divid(0, 1) == 0)
 
-
+print("hello")
 if __name__ == "__main__":
     unittest.main()
